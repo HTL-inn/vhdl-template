@@ -22,7 +22,7 @@ entity tb_main is
   generic (
     
   );
-end tb_main
+end tb_main;
   
 -- architecture `behavior`
 

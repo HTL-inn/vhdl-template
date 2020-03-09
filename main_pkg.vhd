@@ -13,4 +13,4 @@ library work;
 -- package body
 
 package body main_pkg is
-end main_pkg
+end main_pkg;

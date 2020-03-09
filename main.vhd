@@ -26,4 +26,4 @@ architecture behavior of main is
   
 begin
 
-end behavior
+end behavior;
